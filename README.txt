@@ -1,32 +1,21 @@
 bones-rcov
-    by FIXME (your name)
-    FIXME (url)
+    by Tim Pease
+    http://rubygems.org/gems/bones-rcov
 
 == DESCRIPTION:
 
-FIXME (describe your package)
-
-== FEATURES/PROBLEMS:
-
-* FIXME (list of features or problems)
-
-== SYNOPSIS:
-
-  FIXME (code sample of usage)
-
-== REQUIREMENTS:
-
-* FIXME (list of requirements)
+The rcov package for Mr Bones provides tasks for running rcov over your unit
+tests and source code.
 
 == INSTALL:
 
-* FIXME (sudo gem install, anything else)
+  gem install bones-rcov
 
 == LICENSE:
 
 (The MIT License)
 
-Copyright (c) 2009 FIXME (different license?)
+Copyright (c) 2010
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
